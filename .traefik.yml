@@ -1,0 +1,7 @@
+displayName: Correlation ID
+type: middleware
+import: github.com/soulbalz/correlationid
+
+summary: Correlate requests and responses using a unique ID transmitted over an HTTP header.
+
+testData: {}
